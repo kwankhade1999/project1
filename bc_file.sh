@@ -17,5 +17,5 @@ else
     exit 1
 fi
 
-echo "echo 'Backup started at $(date)'"
+echo "11 echo 'Backup started at $(date)'"
 
