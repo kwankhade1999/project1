@@ -16,6 +16,7 @@ else
     echo "❌ Backup failed at $(date)"
     exit 1
 fi
+echo "main branch added feature"
 
 echo "echo 'Backup started at $(date)'"
 
