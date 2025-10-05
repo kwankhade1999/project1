@@ -16,3 +16,6 @@ else
     echo "❌ Backup failed at $(date)"
     exit 1
 fi
+
+echo "echo 'Backup started at $(date)'"
+
