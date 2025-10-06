@@ -1,0 +1,21 @@
+# Ignore backup archives
+*.tar.gz
+*.zip
+
+# Ignore temporary files
+*.swp
+*.tmp
+
+# Ignore logs
+*.log
+
+# Ignore secrets (if you ever have any)
+.env
+*.key
+
+# Ignore OS & editor junk
+.DS_Store
+Thumbs.db
+.vscode/
+.idea/
+
