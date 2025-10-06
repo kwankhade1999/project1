@@ -1,8 +1,4 @@
+<<<<<<< HEAD
 echo 'Main branch change edited'
 echo 'Msg branch change'
-
-echo "rebase changes msg beanch"
-
-
-echo "backup msg third branch"
-
+>>>>>>> feature/add-msg
