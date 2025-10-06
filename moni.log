@@ -1,0 +1,16 @@
+-------------------------------
+------------------------------
+CPU usage
+Memory usage
+               total        used        free      shared  buff/cache   available
+Mem:           3.7Gi       1.4Gi       588Mi        41Mi       2.0Gi       2.3Gi
+Swap:          3.7Gi          0B       3.7Gi
+🗃️ Disk Usage:
+Filesystem      Size  Used Avail Use% Mounted on
+tmpfs           378M  2.2M  376M   1% /run
+/dev/sda2        49G   21G   27G  44% /
+tmpfs           1.9G     0  1.9G   0% /dev/shm
+tmpfs           5.0M  8.0K  5.0M   1% /run/lock
+tmpfs           378M  140K  378M   1% /run/user/1000
+/dev/sr0        6.0G  6.0G     0 100% /media/kunal/Ubuntu 24.04.3 LTS amd64
+/n
